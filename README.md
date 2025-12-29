@@ -31,7 +31,7 @@ Hệ thống giám sát và phát hiện các bất thường trong hoạt độ
 Dự án được thực hiện bởi nhóm 2 sinh viên:
 
 | STT | Họ và tên | Mã sinh viên |
-|:---:|:---|:---:|
+|:----:|:----|:----:|
 | 1 | Quách Ngọc Quang | 22022132 |
 | 2 | Nguyễn Đức Triệu | 22022110 |
 
